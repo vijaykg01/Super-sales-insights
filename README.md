@@ -244,6 +244,15 @@ It demonstrates the ability to transform raw transactional data into **meaningfu
 
 **Vijay K G**
 
+<img width="523" height="371" alt="image" src="https://github.com/user-attachments/assets/a02a95df-6472-4cad-9285-6383e4c7794d" />
+<img width="191" height="448" alt="Screenshot 2026-10-05 135701" src="https://github.com/user-attachments/assets/e5fe921c-0f9b-45f5-a917-2c4520a1614f" />
+<img width="279" height="425" alt="Screenshot 2026-10-05 135727" src="https://github.com/user-attachments/assets/ed9e6dda-e260-4ac6-ae30-a33d1e054a93" />
+<img width="772" height="436" alt="image" src="https://github.com/user-attachments/assets/f5dbab02-6eb0-4ca0-895f-20be38fd2064" />
+
+
+
+
+
 Aspiring Data Analyst
 
 **Skills:**
